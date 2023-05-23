@@ -1,0 +1,30 @@
+Recommendations: 
+
+Improve customer onboarding:
+Since customers with shorter tenure have a higher attrition rate, focus on providing a seamless and positive onboarding experience. This could include clear communication, personalized support, and guidance to help new customers understand the value of the services. 
+
+Enhance monthly service offerings:
+Given the high attrition rate among monthly service users, consider introducing additional features, benefits, or incentives to increase customer satisfaction and loyalty. 
+
+Strengthen phone service:
+ As phone users had the highest attrition rate, it is crucial to analyze the reasons behind their dissatisfaction or disengagement. 
+
+Engage with dependents:
+ Recognize the importance of customers with dependents and engage them effectively. Offer family plans or discounted rates for multiple users,
+ 
+ 
+ 
+ Data Insights:
+
+Overall attrition rate:    27% of customers attrited in the Analysis. Amounting to 1869 Customers
+Short customer tenure:  47% of the attrited individuals had a customer tenure of less than 1 year.
+Decrease in attrition:     After the first year, the attrition rate drops to 29%.
+Monthly service users:   This group exhibited the highest rate of attrition at 43%.
+Phone users:                   Among different services, phone users had the highest attrition rate.
+Dependents' impact:      People with dependents were less likely to attrite, possibly due to the responsibility of supporting
+                                          multiple individuals.
+
+
+
+
+
