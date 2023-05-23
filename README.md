@@ -1,7 +1,8 @@
 #  Pwc Switzerland Power BI virtual case experience - Customer Retention Analysis
 
+![Retention Dashboard](https://github.com/Harsh-2412/PWC_Customer_Retention_Analysis/assets/110857650/d8acd962-536d-45b4-9495-7cee329a0a49)
 
-![Retention Dashboard](https://github.com/Harsh-2412/PWC_CustomerRetentionAnalysis/assets/110857650/1588e845-4ab9-49a3-955d-4165641d4f26)
+
 
 ## Table of Contents
 * Busines requirements 
